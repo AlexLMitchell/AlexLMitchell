@@ -78,4 +78,4 @@ IN PROGRESS..
 
 [linkedin]: https://www.linkedin.com/in/alexanderlmitchell/
 [Spotify]: https://open.spotify.com/user/strakhm
-[Trybe]: https://github.com/AlexLMitchell/AlexLMitchell/blob/main/Trybe.png?raw=true
+[Trybe]: https://github.com/AlexLMitchell/AlexLMitchell/blob/main/Trybe.png
