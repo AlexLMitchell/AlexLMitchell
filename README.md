@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi there, I'm Alexander,
+# Hi there, I'm Alexander, ![Trybe]([Trybe])
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on web development technologies like JavaScript, React etc.
 - 🌱 I’ve finished Trybe's FrontEnd module and i'm now learning about BackEnd development!
 - :crystal_ball: Future Goals: Hone the skills i have while learning and improving myself to be the best Dev i can be.
-- 🤔 Fun Fact: i watch trashy B movies when im not coding! :feelsgood:
+- ⚡ Fun Fact: i watch trashy B movies when im not coding! :feelsgood:
 
 ---
 
@@ -78,3 +78,4 @@ IN PROGRESS..
 
 [linkedin]: https://www.linkedin.com/in/alexanderlmitchell/
 [Spotify]: https://open.spotify.com/user/strakhm
+[Trybe]: https://github.com/AlexLMitchell/AlexLMitchell/blob/main/Trybe.png?raw=true
