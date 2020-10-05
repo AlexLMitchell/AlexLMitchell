@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi there, I'm Alexander, ![Trybe]([Trybe])
+# Hi there, I'm Alexander, ![Trybe](https://github.com/AlexLMitchell/AlexLMitchell/blob/main/Trybe.png)
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
@@ -78,4 +78,3 @@ IN PROGRESS..
 
 [linkedin]: https://www.linkedin.com/in/alexanderlmitchell/
 [Spotify]: https://open.spotify.com/user/strakhm
-[Trybe]: https://github.com/AlexLMitchell/AlexLMitchell/blob/main/Trybe.png
