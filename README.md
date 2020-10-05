@@ -13,11 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi there, I'm Alexander, ![Trybe](https://github.com/AlexLMitchell/AlexLMitchell/blob/main/Trybe.png | width=20)
+# Hi there, I'm Alexander,
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## I'm a Full Stack Web Developer student at Trybe  
+## I'm a Full Stack Web Developer student at Trybe. <img alt="Trybe" height="25px" src="/Trybe.png" />
 
 - 🔭 I’m currently working on web development technologies like JavaScript, React etc.
 - 🌱 I’ve finished Trybe's FrontEnd module and i'm now learning about BackEnd development!
