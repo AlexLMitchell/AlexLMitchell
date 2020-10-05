@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 
 ## I'm a Full Stack Web Developer student at Trybe  
 
-- I’m currently working on web development technologies like JavaScript, React etc.
-- I’ve finished Trybe's FrontEnd module and i'm now learning about BackEnd development!
-- Future Goals: Hone the skills i have while learning and improving myself to be the best Dev i can be.
-- Fun Fact: i watch trashy B movies when im not coding! :feelsgood:
+- 🔭 I’m currently working on web development technologies like JavaScript, React etc.
+- 🌱 I’ve finished Trybe's FrontEnd module and i'm now learning about BackEnd development!
+- :crystal_ball: Future Goals: Hone the skills i have while learning and improving myself to be the best Dev i can be.
+- 🤔 Fun Fact: i watch trashy B movies when im not coding! :feelsgood:
 
 ---
 
@@ -38,7 +38,7 @@ IN PROGRESS..
 
 ---
 
-### Languages and Tools
+### Languages and Tools :octocat:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![Jest](https://img.shields.io/badge/-Jest-%23F7DF1C?style=flat-square&logo=jest&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
