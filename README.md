@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 ---
 
-<table width="100%"> 
+<table align="center" width="100%"> 
   <tr>
   <td width="50%">
 
