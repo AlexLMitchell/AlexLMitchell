@@ -43,6 +43,8 @@ Here are some ideas to get you started:
 
 ### 📫 Contact Me!
 
+<br />
+
 [<img src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>](mailto:alexlm.trybe@gmail.com)
 [<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>](https://www.linkedin.com/in/alexanderlmitchell/)
 [<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/github.png">](https://www.github.com/AlexLMitchell/)
@@ -51,7 +53,7 @@ Here are some ideas to get you started:
   </td>
   <td width="50%">
   
-  ### :headphones: Listning to:
+  ### :headphones: Listening to:
   [![Spotify](https://novatorem.alexlmitchell.vercel.app/api/spotify)](https://open.spotify.com/user/strakhm)
 
   </td>
