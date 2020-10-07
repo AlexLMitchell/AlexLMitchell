@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 ---
 
 
-### Contact Me!
+### 📫 Contact Me!
 
 [<img src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>](mailto:alexlm.trybe@gmail.com)
 [<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>](https://www.linkedin.com/in/alexanderlmitchell/)
@@ -50,6 +50,9 @@ Here are some ideas to get you started:
 ---
 
 <br/>
+<details align="center">
+<summary> <b> <samp> Stats </samp></b></summary>
+  
 
   <h2 align="center"> Github Statistics </h2>
   
@@ -63,6 +66,12 @@ Here are some ideas to get you started:
 </div
 
 <br/>
+
+---
+<details align="center">
+<summary> <b> <samp> Activity </samp></b></summary>
+  test
+<!--START_SECTION:activity-->
 
 
 
