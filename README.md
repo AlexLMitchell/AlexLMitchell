@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 
 <br/>
 <details align="center">
-<summary> Stats </summary>
+<summary> <b> <samp> Stats </samp></b></summary>
   
 
   <h2 align="center"> Github Statistics </h2>
@@ -84,7 +84,7 @@ Here are some ideas to get you started:
 </details>
 
 ---
-<details open align="center">
+<details align="center">
 <summary> <b> <samp> Activity </samp></b></summary>
   test
   
