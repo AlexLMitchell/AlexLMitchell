@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=AlexLMitchell)
-![Updated Badge](https://badges.pufler.dev/updated/AlexLMitchell/AlexLMitchell?color=blue)
+![Updated Badge](https://badges.pufler.dev/updated/AlexLMitchell/Trybe-Projects?color=blue)
 ![Commits Badge](https://badges.pufler.dev/commits/monthly/AlexLMitchell?color=blue)
 # Hi there, I'm Alexander,
 
