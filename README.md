@@ -89,6 +89,12 @@ Here are some ideas to get you started:
   test
   
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#38](https://github.com/tryber/sd-05-mysql-all-for-one/pull/38) in [tryber/sd-05-mysql-all-for-one](https://github.com/tryber/sd-05-mysql-all-for-one)
+2. 🎉 Merged PR [#4](https://github.com/AlexLMitchell/Trybe_Class/pull/4) in [AlexLMitchell/Trybe_Class](https://github.com/AlexLMitchell/Trybe_Class)
+3. 💪 Opened PR [#4](https://github.com/AlexLMitchell/Trybe_Class/pull/4) in [AlexLMitchell/Trybe_Class](https://github.com/AlexLMitchell/Trybe_Class)
+4. 💪 Opened PR [#42](https://github.com/tryber/sd-05-project-starwars-datatable-hooks/pull/42) in [tryber/sd-05-project-starwars-datatable-hooks](https://github.com/tryber/sd-05-project-starwars-datatable-hooks)
+5. 🎉 Merged PR [#20](https://github.com/tryber/sd-05-recipes-app-12/pull/20) in [tryber/sd-05-recipes-app-12](https://github.com/tryber/sd-05-recipes-app-12)
+<!--END_SECTION:activity-->
 
 </details>
 
