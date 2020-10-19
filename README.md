@@ -86,7 +86,7 @@ Here are some ideas to get you started:
 ---
 <details align="center">
 <summary> <b> <samp> Activity </samp></b></summary>
-  <img align='center' src="https://i.ibb.co/tzyS70q/6tXM.gif" width="300">
+  <img align='left' src="https://i.ibb.co/tzyS70q/6tXM.gif" width="300">
   
 ### :octocat: Activity
   
