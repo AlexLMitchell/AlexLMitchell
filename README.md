@@ -86,7 +86,9 @@ Here are some ideas to get you started:
 ---
 <details align="center">
 <summary> <b> <samp> Activity </samp></b></summary>
-  test
+  <img align='center' src="https://i.ibb.co/tzyS70q/6tXM.gif" width="300">
+  
+### :octocat: Activity
   
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#38](https://github.com/tryber/sd-05-mysql-all-for-one/pull/38) in [tryber/sd-05-mysql-all-for-one](https://github.com/tryber/sd-05-mysql-all-for-one)
