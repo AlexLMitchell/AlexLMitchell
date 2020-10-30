@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ## I'm a Full Stack Web Developer student at Trybe. <img alt="Trybe" height="25px" src="/Trybe.png" />
 
-- 🔭 I’m currently working on web development technologies like JavaScript, React etc.
+- 🔭 I’m currently working on [tryber/sd-05-mongodb-commerce](https://github.com/tryber/sd-05-mongodb-commerce).
 - 🌱 I’ve finished Trybe's FrontEnd module and i'm now learning about BackEnd development!
 - :crystal_ball: Future Goals: Hone the skills i have while learning and improving myself to be the best Dev i can be.
 - ⚡ Fun Fact: i watch trashy B movies when im not coding! :feelsgood:
