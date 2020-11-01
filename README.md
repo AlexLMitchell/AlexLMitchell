@@ -91,11 +91,11 @@ Here are some ideas to get you started:
 ### :octocat: Activity
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#38](https://github.com/tryber/sd-05-mysql-vocabulary-booster/pull/38) in [tryber/sd-05-mysql-vocabulary-booster](https://github.com/tryber/sd-05-mysql-vocabulary-booster)
-2. 💪 Opened PR [#38](https://github.com/tryber/sd-05-mysql-all-for-one/pull/38) in [tryber/sd-05-mysql-all-for-one](https://github.com/tryber/sd-05-mysql-all-for-one)
-3. 🎉 Merged PR [#4](https://github.com/AlexLMitchell/Trybe_Class/pull/4) in [AlexLMitchell/Trybe_Class](https://github.com/AlexLMitchell/Trybe_Class)
-4. 💪 Opened PR [#4](https://github.com/AlexLMitchell/Trybe_Class/pull/4) in [AlexLMitchell/Trybe_Class](https://github.com/AlexLMitchell/Trybe_Class)
-5. 💪 Opened PR [#42](https://github.com/tryber/sd-05-project-starwars-datatable-hooks/pull/42) in [tryber/sd-05-project-starwars-datatable-hooks](https://github.com/tryber/sd-05-project-starwars-datatable-hooks)
+1. 💪 Opened PR [#42](https://github.com/tryber/sd-05-mysql-one-for-all/pull/42) in [tryber/sd-05-mysql-one-for-all](https://github.com/tryber/sd-05-mysql-one-for-all)
+2. 💪 Opened PR [#38](https://github.com/tryber/sd-05-mysql-vocabulary-booster/pull/38) in [tryber/sd-05-mysql-vocabulary-booster](https://github.com/tryber/sd-05-mysql-vocabulary-booster)
+3. 💪 Opened PR [#38](https://github.com/tryber/sd-05-mysql-all-for-one/pull/38) in [tryber/sd-05-mysql-all-for-one](https://github.com/tryber/sd-05-mysql-all-for-one)
+4. 🎉 Merged PR [#4](https://github.com/AlexLMitchell/Trybe_Class/pull/4) in [AlexLMitchell/Trybe_Class](https://github.com/AlexLMitchell/Trybe_Class)
+5. 💪 Opened PR [#4](https://github.com/AlexLMitchell/Trybe_Class/pull/4) in [AlexLMitchell/Trybe_Class](https://github.com/AlexLMitchell/Trybe_Class)
 <!--END_SECTION:activity-->
 
 </details>
