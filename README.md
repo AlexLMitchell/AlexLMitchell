@@ -91,11 +91,11 @@ Here are some ideas to get you started:
 ### :octocat: Activity
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#38](https://github.com/tryber/sd-05-project-mongodb-dataflights/pull/38) in [tryber/sd-05-project-mongodb-dataflights](https://github.com/tryber/sd-05-project-mongodb-dataflights)
-2. 💪 Opened PR [#43](https://github.com/tryber/sd-05-mysql-one-for-all/pull/43) in [tryber/sd-05-mysql-one-for-all](https://github.com/tryber/sd-05-mysql-one-for-all)
-3. ❌ Closed PR [#42](https://github.com/tryber/sd-05-mysql-one-for-all/pull/42) in [tryber/sd-05-mysql-one-for-all](https://github.com/tryber/sd-05-mysql-one-for-all)
-4. 💪 Opened PR [#42](https://github.com/tryber/sd-05-mysql-one-for-all/pull/42) in [tryber/sd-05-mysql-one-for-all](https://github.com/tryber/sd-05-mysql-one-for-all)
-5. 💪 Opened PR [#38](https://github.com/tryber/sd-05-mysql-vocabulary-booster/pull/38) in [tryber/sd-05-mysql-vocabulary-booster](https://github.com/tryber/sd-05-mysql-vocabulary-booster)
+1. 💪 Opened PR [#41](https://github.com/tryber/sd-05-mongodb-commerce/pull/41) in [tryber/sd-05-mongodb-commerce](https://github.com/tryber/sd-05-mongodb-commerce)
+2. 💪 Opened PR [#38](https://github.com/tryber/sd-05-project-mongodb-dataflights/pull/38) in [tryber/sd-05-project-mongodb-dataflights](https://github.com/tryber/sd-05-project-mongodb-dataflights)
+3. 💪 Opened PR [#43](https://github.com/tryber/sd-05-mysql-one-for-all/pull/43) in [tryber/sd-05-mysql-one-for-all](https://github.com/tryber/sd-05-mysql-one-for-all)
+4. ❌ Closed PR [#42](https://github.com/tryber/sd-05-mysql-one-for-all/pull/42) in [tryber/sd-05-mysql-one-for-all](https://github.com/tryber/sd-05-mysql-one-for-all)
+5. 💪 Opened PR [#42](https://github.com/tryber/sd-05-mysql-one-for-all/pull/42) in [tryber/sd-05-mysql-one-for-all](https://github.com/tryber/sd-05-mysql-one-for-all)
 <!--END_SECTION:activity-->
 
 </details>
